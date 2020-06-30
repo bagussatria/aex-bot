@@ -1,1 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T10:10:12.387Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36" version="13.3.5" etag="MvURjbGZ_h2s-itVmjYJ" type="github"><diagram id="2pnV3oKGLeRP_4SU-_-N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-30T10:38:07.308Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36" etag="1owZ3YO0OoVCrUMdWeIp" version="13.3.5" type="github">
+  <diagram id="2pnV3oKGLeRP_4SU-_-N" name="Page-1">
+    <mxGraphModel dx="868" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cXWmcKgxdzAak00S33f--2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--4" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;MASALAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="105" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="105" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="105" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;INFORMASI&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Kurangnya informasi yang terpercaya dalam pola hidup sehat.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--11" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;IKLAN&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Gangguan iklan yang mengarahkan kesitus malware&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--12" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;PRIVASI&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Situs yang merekam aktifitas pengguna&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="50" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--15" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXWmcKgxdzAak00S33f--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="400" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--20" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;TUJUAN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--22" value="Membangun sebuah aplikasi berbasis android guna memudahkan pencarian informasi pola hidup sehat." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--24" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;PENGEMBANGAN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--25" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414.5" y="410" as="sourcePoint" />
+            <mxPoint x="414.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--27" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;PRIVASI&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Situs yang merekam aktifitas pengguna&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="105" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="520" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="535" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="535" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="535" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--33" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Tools&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;1. Android Studio&lt;br&gt;2. Webserver&lt;br&gt;3. Notepad++&lt;br&gt;4. Device&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--34" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Data&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1. alodokter&lt;br&gt;2. kemenkes&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--35" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Metode&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Research and Development&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--41" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;PENGUJIAN&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--42" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="670" as="sourcePoint" />
+            <mxPoint x="419.5" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="780" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--45" value="&lt;span style=&quot;text-align: left&quot;&gt;Pengujian sebelum release publik, untuk mendapatkan feedback pengguna.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="810" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--47" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cXWmcKgxdzAak00S33f--43" target="cXWmcKgxdzAak00S33f--29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="820" />
+              <mxPoint x="760" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="930" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--49" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Hasil&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--50" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="860" as="sourcePoint" />
+            <mxPoint x="409.5" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="970" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXWmcKgxdzAak00S33f--52" value="Aplikasi berbasis android pengenalan pola hidup sehat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="990" width="210" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
